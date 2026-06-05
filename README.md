@@ -3,7 +3,7 @@
 Welcome to my Data Analytics Portfolio repository.
 
 ## About Me
-Aspiring Data Analyst with skills in SQL, Python, Power BI, Tableau, and Excel. This repository showcases projects focused on data analysis, visualization, dashboard development, and business insights.
+Data Analyst with skills in SQL, Python, Power BI, Tableau, and Excel. This repository showcases projects focused on data analysis, visualization, dashboard development, and business insights.
 
 ## Skills
 - SQL
